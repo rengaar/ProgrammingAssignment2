@@ -1,4 +1,4 @@
-## function makeCacheMatrix cosists of several function with the purpose to
+## function makeCacheMatrix consists of several functions with the purpose to
 ## store desired matrix, get that matrix, cache the inverse of that matrix,
 ## and get the inverse of that matrix
 
